@@ -23,7 +23,7 @@ This project can help scrap all this type of data in the following format:
 
 <h2>Usage:</h2>
 
-To use the script of this project, you have to make sure you have R installed on either your PC or Mac, and follow the following steps:
+To use the script of this project, you have to make sure you have R (http://www.r-project.org/) installed on either your PC or Mac, and follow the following steps:
 
 1. Download the all the files and put them in the working directory of R
 2. Make sure all files are in the same folder
