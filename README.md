@@ -1,7 +1,7 @@
 Web-Scraping-from-USGSA
 =======================
 
-Purpose:
+<h2>Purpose:</h2>
 
 Web scraping from US General Service Administration Website: http://www.reginfo.gov
 
@@ -21,7 +21,7 @@ Column Name: Action    Date    RIN
 Row 1:        ...
 Row 2:        ...
 
-Usage:
+<h2>Usage:</h2>
 
 To use the script of this project, you have to make sure you have R installed on either your PC or Mac, and follow the following steps:
 
@@ -30,7 +30,7 @@ To use the script of this project, you have to make sure you have R installed on
 2. Ran the whole script first
 3. Run the function totalData(start, end); you have to specify the start and end parameters as the integeters, and their range is from 1 to 43150.
 
-Warning: 
+<h2>Warning:</h2> 
 
 Please BE SURE to check with US General Service Administration with their specification about web scraping before you use this script. 
 
