@@ -10,16 +10,16 @@ The website of US General Service Administration contains rich and detailed info
 A sample rule would be like: http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=200210&RIN=1125-AA38
 
 <strong>Title:</strong> Protective Orders in Immigration Administration Proceedings<br>
-<strong>Abstract:</strong> This rule amends regulations governing the Executive Office for Immigration Review (EOIR) by authorizing immigration judges to issue protective orders to limit public disclosure of sensitive law enforcement ...
-Timetable: ...
+<strong>Abstract:</strong> This rule amends regulations governing the Executive Office for Immigration Review (EOIR) by authorizing immigration judges to issue protective orders to limit public disclosure of sensitive law enforcement ...<br>
+<strong>Timetable:</strong> ...
 
 The information in timetable is important and valuable for many researchers working in public administration, but the website doesn't provide a convenient way to present the right formated data of action of a rule and its matched date.
 
 This project can help scrap all this type of data in the following format:
 
-Column Name: Action,    Date,    RIN<br>
-Row 1:        ...<br>
-Row 2:        ...
+<strong>Column Name:</strong> Action,    Date,    RIN<br>
+<strong>Row 1:</strong>        ...<br>
+<strong>Row 2:</strong>        ...
 
 <h2>Usage:</h2>
 
