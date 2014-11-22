@@ -17,8 +17,8 @@ The information in timetable is important and valuable for many researchers work
 
 This project can help scrap all this type of data in the following format:
 
-Column Name: Action,    Date,    RIN
-Row 1:        ...
+Column Name: Action,    Date,    RIN<br>
+Row 1:        ...<br>
 Row 2:        ...
 
 <h2>Usage:</h2>
