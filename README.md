@@ -32,5 +32,5 @@ To use the script of this project, you have to make sure you have R installed on
 
 <h2>Warning:</h2> 
 
-Please BE SURE to check with US General Service Administration with their specification about web scraping before you use this script. 
+Please <strong>BE SURE</strong> to check with US General Service Administration with their specification about web scraping before you use this script. 
 
