@@ -9,8 +9,8 @@ The website of US General Service Administration contains rich and detailed info
 
 A sample rule would be like: http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=200210&RIN=1125-AA38
 
-Title: Protective Orders in Immigration Administration Proceedings
-Abstract: This rule amends regulations governing the Executive Office for Immigration Review (EOIR) by authorizing immigration judges to issue protective orders to limit public disclosure of sensitive law enforcement ...
+<strong>Title:</strong> Protective Orders in Immigration Administration Proceedings<br>
+<strong>Abstract:</strong> This rule amends regulations governing the Executive Office for Immigration Review (EOIR) by authorizing immigration judges to issue protective orders to limit public disclosure of sensitive law enforcement ...
 Timetable: ...
 
 The information in timetable is important and valuable for many researchers working in public administration, but the website doesn't provide a convenient way to present the right formated data of action of a rule and its matched date.
