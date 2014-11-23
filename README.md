@@ -13,7 +13,7 @@ A sample rule would be like: http://www.reginfo.gov/public/do/eAgendaViewRule?pu
 <strong>Abstract:</strong> This rule amends regulations governing the Executive Office for Immigration Review (EOIR) by authorizing immigration judges to issue protective orders to limit public disclosure of sensitive law enforcement ...<br>
 <strong>Timetable:</strong> ...
 
-The information in timetable is important and valuable for many researchers working in public administration, but the website doesn't provide a convenient way to present the right formated data of action of a rule and its matched date.
+The information in timetable is important and valuable for many researchers working in public administration, but the website doesn't provide a convenient way for people to view all this type of data, namely action of a rule and its matched date, on a single page.
 
 This project can help scrap all this type of data in the following format:
 
