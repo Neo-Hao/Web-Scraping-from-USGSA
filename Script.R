@@ -87,3 +87,6 @@ totalData <- function(start, end) {
   filename <- paste(filename, "csv", sep=".")
   write.csv(total, file = filename)
 }
+
+# application sample
+totalData(1, 50)
