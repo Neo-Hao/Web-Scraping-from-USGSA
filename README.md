@@ -30,6 +30,9 @@ To use the script of this project, you have to make sure you have R (http://www.
 2. Ran the whole script first
 3. Run the function totalData(start, end); you have to specify the start and end parameters as the integeters, and their range is from 1 to 43150.
 
+By the way, if you are curious where the RIN number data was retrieved, you can check <a href="http://www.reginfo.gov/public/do/eAgendaSearchResult" target="_blank">this page</a>. Click "Download All RIN Data in XML", you will get a XML file. We get all the RIN numbers from the XML file.
+
+
 <h2>Warning:</h2> 
 
 Please <strong>BE SURE</strong> to check with US General Service Administration with their specification about web scraping before you use this script. 
